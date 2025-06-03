@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Shumeng Xie
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Shumeng
+last_name: Xie
 
 # Status emoji
 status:
@@ -14,28 +14,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Ph.D candidate at National University of Singapore
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
+  - name: National University of Singapore, Singapore
     url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
+bio: Researchers in laminar combustion at NUS.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Numerical simulations
+  - Laminar flow
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: Ph.D in Mechanical Engineering
+      institution: National University of Singapore (Singapore)
+      year: 2026 (expected)
+    - course: MSc. in Fluid Mechanics
+      institution: Peking University (Beijing, China)
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,34 +47,33 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@cnrs.fr
+    link: mailto:s.xie@u.nus.edu
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/yeanment
     display:
       header: true
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
-    label: Follow me on Mastodon
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
-  - icon: cv
-    icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+  # - icon: mastodon
+  #   icon_pack: fab
+  #   link: https://mastodon.social/@simongravelle
+  #   label: Follow me on Mastodon
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/resume/resume-simon-gravelle.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 
 ### About me ##
 
-I am a computer physicist in soft matter and fluids at interfaces, working at
-the LIPhy institute in Grenoble, France.
+I am a Ph.D candidate working on combustion at Singapore.
 
-<a href="https://github.com/simongravelle" target="_blank" style="float: right">
+<!-- <a href="https://github.com/simongravelle" target="_blank" style="float: right">
   <img src="https://raw.githubusercontent.com/simongravelle/simongravelle.github.io/refs/heads/main/static/img/water-in-polymer.png" alt="Water in polymer - molecular dynamics" width="200">
-</a>
+</a> -->
 
 <span style="display: block; height: 8px;"></span>
 

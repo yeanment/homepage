@@ -8,7 +8,7 @@ headless: true
 weight: 40
 
 title: Publications
-subtitle: 'See also my [Scholar](https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl) profile'
+subtitle: 'See also my [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57225796626) profile'
 
 content:
   # Filter on criteria

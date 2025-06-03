@@ -6,6 +6,11 @@ on:
       - main  # Set a branch name to trigger deployment
   pull_request:
 
+# Allow one concurrent deployment
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
 jobs:
   deploy:
     runs-on: ubuntu-22.04
